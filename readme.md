@@ -51,66 +51,66 @@ Entwickeln Sie ein Programm, dass bis zu einem vom Nutzer eingegebenen Wert alle
 
 Beispiel:
 
-Teiler - Test
-=============
-Geben Sie einen Endwert an: 100000
-6 ist vollkommen
-28 ist vollkommen
-220 und 284 sind befreundet
-284 und 220 sind befreundet
-496 ist vollkommen
-1184 und 1210 sind befreundet
-1210 und 1184 sind befreundet
-2620 und 2924 sind befreundet
-2924 und 2620 sind befreundet
-5020 und 5564 sind befreundet
-5564 und 5020 sind befreundet
-6232 und 6368 sind befreundet
-6368 und 6232 sind befreundet
-8128 ist vollkommen
-10744 und 10856 sind befreundet
-10856 und 10744 sind befreundet
-12285 und 14595 sind befreundet
-14595 und 12285 sind befreundet
-17296 und 18416 sind befreundet
-18416 und 17296 sind befreundet
-63020 und 76084 sind befreundet
-66928 und 66992 sind befreundet
-66992 und 66928 sind befreundet
-67095 und 71145 sind befreundet
-69615 und 87633 sind befreundet
-71145 und 67095 sind befreundet
-76084 und 63020 sind befreundet
-79750 und 88730 sind befreundet
-87633 und 69615 sind befreundet
-88730 und 79750 sind befreundet
-fertig!
+Teiler - Test  
+  
+Geben Sie einen Endwert an: 100000  
+6 ist vollkommen  
+28 ist vollkommen  
+220 und 284 sind befreundet  
+284 und 220 sind befreundet  
+496 ist vollkommen  
+1184 und 1210 sind befreundet  
+1210 und 1184 sind befreundet  
+2620 und 2924 sind befreundet  
+2924 und 2620 sind befreundet  
+5020 und 5564 sind befreundet  
+5564 und 5020 sind befreundet  
+6232 und 6368 sind befreundet  
+6368 und 6232 sind befreundet  
+8128 ist vollkommen  
+10744 und 10856 sind befreundet  
+10856 und 10744 sind befreundet   
+12285 und 14595 sind befreundet  
+14595 und 12285 sind befreundet  
+17296 und 18416 sind befreundet  
+18416 und 17296 sind befreundet  
+63020 und 76084 sind befreundet  
+66928 und 66992 sind befreundet  
+66992 und 66928 sind befreundet  
+67095 und 71145 sind befreundet  
+69615 und 87633 sind befreundet  
+71145 und 67095 sind befreundet  
+76084 und 63020 sind befreundet  
+79750 und 88730 sind befreundet  
+87633 und 69615 sind befreundet  
+88730 und 79750 sind befreundet  
+fertig!  
 
 Erweitern Sie Ihr Programm dann so, dass doppelte Ausgaben für befreundete Zahlen unterdrückt werden.
 
-Beispiel:
+Beispiel:  
 
-Teiler - Test
-=============
-Geben Sie einen Endwert an: 100000
-6 ist vollkommen
-28 ist vollkommen
-220 und 284 sind befreundet
-496 ist vollkommen
-1184 und 1210 sind befreundet
-2620 und 2924 sind befreundet
-5020 und 5564 sind befreundet
-6232 und 6368 sind befreundet
-8128 ist vollkommen
-10744 und 10856 sind befreundet
-12285 und 14595 sind befreundet
-17296 und 18416 sind befreundet
-63020 und 76084 sind befreundet
-66928 und 66992 sind befreundet
-67095 und 71145 sind befreundet
-69615 und 87633 sind befreundet
-79750 und 88730 sind befreundet
-fertig!
+Teiler - Test  
+  
+Geben Sie einen Endwert an: 100000  
+6 ist vollkommen  
+28 ist vollkommen  
+220 und 284 sind befreundet  
+496 ist vollkommen  
+1184 und 1210 sind befreundet  
+2620 und 2924 sind befreundet  
+5020 und 5564 sind befreundet  
+6232 und 6368 sind befreundet  
+8128 ist vollkommen  
+10744 und 10856 sind befreundet  
+12285 und 14595 sind befreundet  
+17296 und 18416 sind befreundet  
+63020 und 76084 sind befreundet  
+66928 und 66992 sind befreundet  
+67095 und 71145 sind befreundet  
+69615 und 87633 sind befreundet  
+79750 und 88730 sind befreundet  
+fertig!  
 
 Das Programm soll neben eventuell weiteren Funktionen mindestens die folgenden Funktionen enthalten und verwenden:
 
